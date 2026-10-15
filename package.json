@@ -1,0 +1,13 @@
+{
+  "name": "wrec-site",
+  "version": "1.0.0",
+  "description": "WRec ekran kayıt programı tanıtım ve indirme sayfası",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
